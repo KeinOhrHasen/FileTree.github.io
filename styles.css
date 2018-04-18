@@ -73,9 +73,3 @@ li>.Content:hover  {
 .ExpandOpen .Expand, .ExpandClosed .Expand {cursor: pointer}
 
 .ExpandLeaf .Expand {cursor: auto}
-
-.LI-profile-badge{
-    position:absolute;
-    top:0px;
-    right:20px
-}
